@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stacks22
 - 👀 I’m interested in in learning new things and becoming apart of the github community.
 - 🌱 I’m currently learning java and also interested in learning Python, C++, C#.
-- 💞️ I’m looking to collaborate on projects with other programmers wether it be skilled or beginners.
+- 💞️ I’m looking to collaborate on projects with other programmers whether it be skilled or beginners.
 - 📫 You can reach me on discord @stacks#1841.
 
 <!---
